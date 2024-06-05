@@ -1,6 +1,6 @@
 ### Hello there 🌸
 I'm Nicole and I'm currently studying an MBD to futher enhance my business analytics skills. 
-Hope my repos helps you through you data journey ✨ 
+Hope my repos help you through you data journey ✨ 
 
 🌟 **Currently Working On**:
 - [Project 1](https://github.com/yourusername/project1) - Brief description
@@ -26,9 +26,3 @@ SQL tips & tricks | Data science | Digital Transformation | AI in Business Strat
 ### 🏅 Achievements:
 - [Achievement 1]
 - [Achievement 2]
-
----
-
-### ✨ Fun Facts:
-- Fun fact 1
-- Fun fact 2
