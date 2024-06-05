@@ -18,7 +18,6 @@ SQL tips & tricks | Data science | Digital Transformation | AI in Business Strat
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)
 ![CAPM by PMI](https://img.shields.io/badge/CAPM-PMI-007CBA?style=flat&logo=pmi&logoColor=white)
 
-
 ---
 ### 🌟 Featured Projects:
 - [Project 1](https://github.com/yourusername/project1) - Brief description
